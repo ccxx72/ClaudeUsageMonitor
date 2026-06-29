@@ -93,7 +93,4 @@ it private and never commit it. Automating access to the service may be
 subject to the provider's Terms of Service; use at your own risk and for
 personal purposes only.
 
-## License
 
-No license file is included. Add one (e.g. MIT) before publishing if you want
-to allow reuse.
