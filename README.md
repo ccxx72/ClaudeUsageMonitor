@@ -10,6 +10,8 @@ When minimized, the window disappears and only a **system-tray icon** remains
 
 > ⚠️ This tool talks to Claude.ai's **unofficial internal API** using your
 > session cookie. It is for personal use only. See the disclaimer below.
+>
+> ![Schermata di Claude Usage Monitor](img/Screenshot_CMU.jpg)
 
 ## Features
 
